@@ -32,4 +32,7 @@ Customer churn is a critical issue for telecom companies, as losing customers le
 ### 5. **Power BI Dashboard**
    - Created a Power BI dashboard to visualize customer churn trends, and retention strategies
 
+![Screenshot (944)](https://github.com/user-attachments/assets/37a66ef9-9053-4dfe-bf1b-62d7341c05dc)
+
+
 ` Dataset and required files are found at: https://mega.nz/folder/vE1UBbTb#GlIaX7SCZP_5rRgCIw_mwg ` 
